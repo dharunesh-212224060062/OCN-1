@@ -62,7 +62,6 @@ Where:
 
 This \(a\) is for **660nm wavelength**.  
 
----
 
 ### For 950nm Wavelength
 1. Set switch **SW9 → TX2 position**.  
@@ -80,7 +79,6 @@ This \(a\) is for **660nm wavelength**.
 This \(a\) is for **950nm wavelength**.  
 8. Compare attenuation values for 660nm and 950nm.  
 
----
 
 ## MEASUREMENT OF BENDING LOSSES
 1. Remove fiber from SFH450V (950nm) & SFH350V.  
@@ -90,18 +88,12 @@ This \(a\) is for **950nm wavelength**.
 5. Record output voltage readings.  
 6. Plot graph: **Received signal amplitude vs. Loop diameter**.  
 
----
 
 ## TABULATION
 
-
 <img width="1192" height="1280" alt="image" src="https://github.com/user-attachments/assets/98394d8a-a32d-4880-9e77-630cb0116716" />
-
 <img width="1189" height="1280" alt="image" src="https://github.com/user-attachments/assets/13833509-c8c0-4948-a483-4bb691b90121" />
-
 <img width="1280" height="901" alt="image" src="https://github.com/user-attachments/assets/0c3480ae-50a2-4187-946e-7f0f9da9f3ca" />
-
-
 
 ## RESULT
 - Propagation loss and bending losses for **660nm** and **950nm** wavelengths were measured.  
